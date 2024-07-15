@@ -1,1 +1,1 @@
-GUI and IDE based Projects of CODSOFT Using Java and Java Swing.
+GUI and IDE based Projects Using Java and Java Swing.
